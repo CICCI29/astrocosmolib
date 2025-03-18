@@ -1,0 +1,1 @@
+from ..fits.fits import FitsManager
